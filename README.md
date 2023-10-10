@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @yujaw
 - 👀 I’m interested in programming and hacking.
 - 🌱 I’m currently learning Node JS.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yujawmanandhar@gmail.com.
 
 <!---
