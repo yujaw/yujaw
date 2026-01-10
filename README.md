@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yujaw&label=Profile%20views&color=0e75b6&style=flat" alt="yujaw" /> </p>
 
-- 🔭 I’m currently working on [ASCII Torus Generator](https://github.com/yujaw/3dtorus)
+- 🔭 I’m currently working on [Physics Engine](https://github.com/yujaw/physicsengine)
 
 - 🌱 I’m currently learning **C**
 
