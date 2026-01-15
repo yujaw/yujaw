@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yujaw</h1>
-<h3 align="center">A student and embedded systems enthusiast from Kathmandu, Nepal</h3>
+<h3 align="center">A student and embedded systems and VLSI enthusiast from Kathmandu, Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yujaw&label=Profile%20views&color=0e75b6&style=flat" alt="yujaw" /> </p>
 
