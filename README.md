@@ -15,6 +15,14 @@
 
 - ⚡ Fun fact **I love history**
 
+### Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yujaw&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yujaw&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yujaw&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yujaw&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yujaw&theme=apprentice&utcOffset=8)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yujawmanandhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yujawmanandhar" height="30" width="40" /></a>
